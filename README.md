@@ -3,7 +3,10 @@
 This project implements and extends the geometric patterns from [Brilliant.org's Creative Coding Course](https://brilliant.org/courses/programming-python/). Using Python's turtle graphics, it creates a variety of geometric patterns demonstrating concepts from basic drawing to complex mathematical positioning.
 
 ## 🎨 Examples
-*(Note: Add 2-3 of your generated .eps files as images here after converting them to .png)*
+![figure19](https://github.com/user-attachments/assets/6a6edba2-e7a1-4590-983b-c8c4b0152631)
+![figure8](https://github.com/user-attachments/assets/d3f846d2-eabe-4ec0-ae5e-324fdb08526b)
+
+
 
 ## 🎓 Course Connection
 All base patterns are derived from Brilliant's Creative Coding course exercises. The project:
@@ -30,13 +33,13 @@ turtle-patterns/
 ## 🚀 Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/turtle-patterns.git
+git clone https://github.com/jackChallis/turtle-patterns.git
 cd turtle-patterns
 ```
 
 2. Run the pattern generator:
 ```bash
-python src/turtle_patterns.py
+python3 src/turtle_patterns.py
 ```
 
 ## 🎯 Pattern Categories
